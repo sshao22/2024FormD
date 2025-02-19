@@ -1,0 +1,12 @@
+  
+# Ignore system files  
+.DS_Store  
+Thumbs.db  
+
+# Ignore MySQL database files (if applicable)  
+*.log  
+*.sql-journal  
+
+# Ignore VS Code settings (optional)  
+.vscode/  
+
