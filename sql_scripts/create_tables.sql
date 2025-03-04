@@ -1,3 +1,5 @@
+-- This script is create tables for each tsv file
+
 USE formd_db;
 CREATE TABLE FORMDSUBMISSION (
     ACCESSIONNUMBER VARCHAR(20) NOT NULL PRIMARY KEY,
